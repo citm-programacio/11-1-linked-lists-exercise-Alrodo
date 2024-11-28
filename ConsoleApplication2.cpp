@@ -84,7 +84,6 @@ void List::insert(unsigned int position, const int& value) {
     }
 }
 
-
 void List::print() const {
     Node* current = first;
     while (current != nullptr) {
