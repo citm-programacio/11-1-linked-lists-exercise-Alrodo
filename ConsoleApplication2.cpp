@@ -3,8 +3,6 @@
 
 #include <iostream>
 
-#include <iostream>
-
 class List {
 public:
     List();
